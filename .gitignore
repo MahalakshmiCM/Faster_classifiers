@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
+
+# dataset (download it separately, see README) -- remove these two lines if you decide to commit the zip
+UCI_HAR_Dataset.zip
+UCI HAR Dataset/
